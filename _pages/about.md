@@ -1,31 +1,37 @@
 ---
 
-title: "About David Florian"
+title: "About Julian Delgado"
 
 ---
+Julian is passionate about being a lifelong learner and has a diverse set of interests. He enjoys bringing his ideas to life through microcontrollers and 3D-printed parts.
+He is seeking an entry-level role in the cybersecurity field with a focus on reverse engineering.
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+* Vanderbilt University - Class of 2024
+  * BS Computer Science
+  * Concentration in Digital Fabrication
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+## Work Experience
+American Express - Software Engineering Intern (Summer 2023)
+* Developed a RESTful API for audit log statistics using Java and Springboot.
+* Designed and implemented secure authorization and authentication mechanisms for API endpoints.
+* Collaborated with cross-functional teams to gather requirements and ensure seamless integration with existing systems.
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Julian has experience with the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* CO2 Laser Cutting
 
-## Press 
+He is also familiar with the following languages, frameworks, and tools:
+* C, C++, Java
+* Spring Boot
+* PostgreSql, Couchbase, MongoDB
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+## Awards
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+* Questbridge Scholar
+* National Hispanic Scholar
+* SyBBURE Searle Undergradute Research Fellow

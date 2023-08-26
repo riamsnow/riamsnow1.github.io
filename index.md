@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: ""
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,19 +8,12 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Julian Delgado is an engineer with a passion for teaching and bringing ideas to life. He specializes in microcontrollers and FFF printing."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/syringe-pump-1.png
+    alt: "Syringe Pump"
+    title: "Syringe Pump"
+    excerpt: "Custom syringe pump built to precisely dispense fluids at a minimum rate of 1 uL/min."
 ---
 
 {% include feature_row %}
