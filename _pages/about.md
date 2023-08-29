@@ -34,4 +34,4 @@ He is also familiar with the following languages, frameworks, and tools:
 
 * Questbridge Scholar
 * National Hispanic Scholar
-* SyBBURE Searle Undergradute Research Fellow
+* SyBBURE Searle Undergraduate Research Fellow
