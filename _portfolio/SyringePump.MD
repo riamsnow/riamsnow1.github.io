@@ -18,7 +18,7 @@ header:
 # Operating Procedures
   * Once plugged in, the initial flow rate can be set by turning the potentiometer clockwise/counter-clockwise.
   * Press the black latching button to start/pause dispersal of liquid.
-  * To adjust initial position of syringe, use the two red push buttons to advance/retract the syringe. Note: This operation can only be completed while the syringe pump is idle.
+  * To adjust initial position of syringe, use the two blue push buttons to advance/retract the syringe. Note: This operation can only be completed while the syringe pump is idle.
   * The syringe pump will stop automatically once dispersal is complete. Press the black latching button to put the pump in idle mode and retract the syringe to resume use.
 
 # Off-the-shelf parts
