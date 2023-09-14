@@ -14,6 +14,10 @@ feature_row:
     alt: "Syringe Pump"
     title: "Syringe Pump"
     excerpt: "Custom syringe pump built to precisely dispense fluids at a minimum rate of 1 uL/min."
+  - image_path: assets/img/syringe-pump-1.png
+    alt: "Phone Mount"
+    title: "Phone Mount"
+    excerpt: "Durable, UV-resistant phone mount designed for 23-25mm handlebars."
 ---
 
 {% include feature_row %}
