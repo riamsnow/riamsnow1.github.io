@@ -1,8 +1,8 @@
 ---
-title: "Syringe Pump"
-excerpt: "This syringe pump is capable of dispensing liquid at a minimum rate of 1 uL/min and maximum rate of 10 uL/min."
+title: "Bike Phone Mount"
+excerpt: "Durable, UV-resistant phone mount designed for 23-25mm handlebars."
 header:
-  teaser: assets/img/Linear-Actuator-Assembly_2023-May-03_09-37-01AM-000_CustomizedView746686638_jpg.jpg
+  teaser: assets/img/phone-mount-render.png
 ---
 
 # Embedded CAD model
