@@ -31,8 +31,10 @@ Key features of top-down modeling in CAD include:
   * Component Interactions: Top-down modeling emphasizes how components interact with each other within the assembly. Designers can define constraints, mates, and relationships between parts, ensuring they fit and function correctly when assembled.
 
   * Adaptability: Top-down modeling makes it easier to accommodate design changes or variations since modifications made at the top level automatically propagate to subordinate components, reducing the risk of errors and inconsistencies.
+
+# Design Considerations
+## Material Selection
+
+## Component Design
+
 # Multiple pictures of printed model – both standalone and in use o Writeup including (>500 words):
-# A description of top-down modeling and how it was leveraged in this assignment.
-# Rationale behind your design
-# Assembly instructions
-# Material choice
