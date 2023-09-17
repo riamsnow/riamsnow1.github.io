@@ -15,7 +15,7 @@ header:
 # Installation
   * This phone mount can be attached to your bike with the use of 2 ![M5-20mm hex screws](https://www.homedepot.com/p/M5-0-8x20mm-Plain-Socket-Cap-Head-Internal-Hex-Drive-Cap-Screw-2-Pieces-D22-S-864838/323371567)
 
-![](assets/img/m5.png)
+![](/assets/img/m5.png)
 
   * Once the mount is attached, apply a moderate amount of force to secure the shaft to the socket.
   * Adjust the fit of your device by rotating the two hex nuts.
