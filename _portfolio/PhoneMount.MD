@@ -2,7 +2,7 @@
 title: "Bike Phone Mount"
 excerpt: "Durable, UV-resistant phone mount designed for 23-25mm handlebars."
 header:
-  teaser: assets/img/phone-mount-render.png
+  teaser: assets/img/phone-mount-render.jpeg
 ---
 
 # Embedded CAD model
