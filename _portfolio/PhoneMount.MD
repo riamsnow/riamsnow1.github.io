@@ -13,8 +13,10 @@ header:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ef55bd0e2e4874408?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Installation
-  * This phone mount can be attached to your bike with the use of 2 <a href = https://www.homedepot.com/p/M5-0-8x20mm-Plain-Socket-Cap-Head-Internal-Hex-Drive-Cap-Screw-2-Pieces-D22-S-864838/323371567>M5-20mm hex screws </a>.
-  <img src = assets/img/m5.png, alt = "M5 hex screw>
+  * This phone mount can be attached to your bike with the use of 2 
+<a href = https://www.homedepot.com/p/M5-0-8x20mm-Plain-Socket-Cap-Head-Internal-Hex-Drive-Cap-Screw-2-Pieces-D22-S-864838/323371567>M5-20mm hex screws </a>.
+<img src = assets/img/m5.png, alt = "M5 hex screw>
+
   * Once the mount is attached, apply a moderate amount of force to secure the shaft to the socket.
   * Adjust the fit of your device by rotating the two hex nuts.
 # Multiple pictures of printed model – both standalone and in use o Writeup including (>500 words):
