@@ -2,7 +2,7 @@
 title: "Bike Phone Mount"
 excerpt: "Durable, UV-resistant phone mount designed for 23-25mm handlebars."
 header:
-  teaser: assets/img/phone-mount-render.jpeg
+  teaser: assets/img/full-final-render.png
 ---
 # Motivation
   * The motivation behind designing a phone bike mount using top-down modeling is rooted in enhancing the safety, convenience, and overall user experience for cyclists. Cyclists often rely on their smartphones for navigation, tracking fitness data, or staying connected while riding. 
@@ -13,7 +13,7 @@ header:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ef55bd0e2e4874408?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Installation
-  * This phone mount can be attached to your bike with the use of two [M5-20mm hex screws.](https://www.homedepot.com/p/M5-0-8x20mm-Plain-Socket-Cap-Head-Internal-Hex-Drive-Cap-Screw-2-Pieces-D22-S-864838/323371567)
+  * This phone mount can be attached to your bike with the use of two [M5-30mm hex screws.](https://www.mcmaster.com/products/screws/alloy-steel-socket-head-screws-8/length~30-0-mm/length~30-mm/?s=m5+screws)
   * Once the mount is attached, apply a moderate amount of force to secure the shaft to the socket.
   * Adjust the fit of your device by rotating the two hex nuts.
 
@@ -21,14 +21,14 @@ header:
 
 |                 Component                 | Image |
 |:-----------------------------------------:|:-----:|
-|      Body (PETG)                    |   to do  |
-|      Long Thread  (PETG)            |   to do        |
-|      Short Thread  (PETG)           |   to do               |
-|      Positioning Nut  (PETG, Qty: 2)        |   ![](/assets/img/nut-render.png)   |
-|      Phone Support (PETG, Qty: 2)           |   ![](/assets/img/constraint-render.png) |
-|      Ball & Socket Joint (PETG)     |   ![](/assets/img/ball-socket-render.png) |
-|      Bike Mount (PETG)              |   ![](/assets/img/mount-render.png) |
-|      M5 - 20mm Hex Screw (Qty: 2)             |   ![](/assets/img/m5.png) |
+|      Body (PETG)                            |   ![](/assets/img/body-render.png)        |
+|      Long Thread  (PETG)                    |   ![](/assets/img/long-render.png)        |
+|      Short Thread  (PETG)                   |   ![](/assets/img/short-render.png)       |
+|      Positioning Nut  (PETG, Qty: 2)        |   ![](/assets/img/nut-render.png)         |
+|      Phone Support (PETG, Qty: 2)           |   ![](/assets/img/constraint-render.png)  |
+|      Ball & Socket Joint (PETG)             |   ![](/assets/img/ball-socket-render.png) |
+|      Bike Mount (PETG)                      |   ![](/assets/img/mount-render.png)       |
+|      M5 - 30mm Hex Screw (Qty: 2)           |   ![](/assets/img/m5-30.png)              |
 
 # What is top-down modeling?
 Top-down modeling is a systematic approach where the entire product or assembly is conceptualized as a whole before diving into the finer details. This method allows designers to establish the overall architecture, define relationships between components, and establish constraints and parameters that govern the entire assembly's behavior.
@@ -53,9 +53,8 @@ In the prototyping phase of my project, I initially used PLA (Polylactic Acid) f
 Originally, I incorporated the long and short threads as part of the main body in my design. However, as I sought to enhance the overall quality and functionality of the product, I opted for a press-fit design approach. This design change allowed me to print the threads vertically, which significantly improved the precision and quality of the threads themselves. This shift in design approach ultimately ensured that the threads provided a higher level of reliability and performance in the final product.
 
 Taking a more creative approach, I decided to switch from the traditional press-fit ball and socket joint to a print-in-place mechanism. This shift brought an exciting challenge to the project as it had to be designed in such a way to allow the entire joint to be printed as one piece. This not only simplified assembly but also ensured that the parts moved smoothly right after printing, making the user experience more enjoyable and intuitive. 
+[](/assets/img/socket-cross-section.PNG)
 
 My overall goal was to minimize the number of off-the-shelf parts, limiting myself to printed components. This decision added a touch of innovation and fun to the final product, highlighting the possibilities of 3D printing.
 
-# Cross section of ball and socket joint
-
-# picture of final product in use
+[](/assets/img/full-final-render.png)
