@@ -5,7 +5,7 @@ header:
   teaser: assets/img/full-final-render.png
 ---
 # Motivation
-  * The motivation behind designing a phone bike mount using top-down modeling is rooted in enhancing the safety, convenience, and overall user experience for cyclists. Cyclists often rely on their smartphones for navigation, tracking fitness data, or staying connected while riding. 
+  * The motivation behind designing a phone bike mount is rooted in enhancing the safety, convenience, and overall user experience for cyclists. Cyclists often rely on their smartphones for navigation, tracking fitness data, or staying connected while riding. 
   * A well-designed bike mount ensures that the phone is securely and ergonomically positioned, reducing distractions and the need to handle the device manually. 
   * By adopting a top-down modeling approach, I was able to prioritize factors like ease of installation, stability, and adaptability to various phone sizes, guaranteeing a user-centric solution that promotes safer cycling and a more enjoyable riding experience.
 
@@ -13,10 +13,10 @@ header:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ef55bd0e2e4874408?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Assembly
-  * Press the long and short threads into the main body in whichever orientation works best for your device. *
-  * Press the movable end of the ball-and-socket joint into the back of the main body. *
+  * Press the long and short threads into the main body in whichever orientation works best for your device.*
+  * Press the movable end of the ball-and-socket joint into the back of the main body.*
   * Slide the phone supports onto the long and short threads and secure your device with the positioning nuts.
-  * Press the other end of the ball-and-socket into the bike mount. *
+  * Press the other end of the ball-and-socket into the bike mount.*
   * Secure the mount to your bicycle using the M5-30mm hex screws.
 
 *(Note: Due to the limitations of FFF printing, a heat gun may be needed to soften materials prior to press-fitting them together)
@@ -40,6 +40,12 @@ header:
 # What is top-down modeling?
 Top-down modeling is a systematic approach where the entire product or assembly is conceptualized as a whole before diving into the finer details. This method allows designers to establish the overall architecture, define relationships between components, and establish constraints and parameters that govern the entire assembly's behavior.
 
+<figure>
+<p style="text-align:center;"><img src="/assets/img/top-down-hierachy.PNG" alt="Top-down hierarchy." style="width:256px;height:256px;" /> </p>
+<figure-caption>Figure 1. Top-down hierarchy example.</figure-caption>
+</figure>
+
+
 Key features of top-down modeling include:
 
   * Hierarchical Structure: Designers create a hierarchical structure or assembly tree that represents the various components and sub-assemblies of the product. This structure helps organize the design into manageable units.
@@ -62,8 +68,8 @@ Originally, I incorporated the long and short threads as part of the main body i
 I decided to take a more creative approach for the ball and socket component, shifting to a print-in-place mechanism. This change brought an exciting challenge to the project as it had to be designed in such a way to allow the entire joint to be printed as one piece. This not only simplified assembly but also ensured that the parts moved smoothly right after printing, making the user experience more enjoyable and intuitive. 
 
 <figure>
-<img src="/assets/img/socket-cross-section.PNG" alt="Cross section of joint." style="width:256px;height:256px;" />
-<figure-caption>Figure 1. Cross section of ball-and-socket joint.</figure-caption>
+<p style="text-align:center;"><img src="/assets/img/socket-cross-section.PNG" alt="Cross section of joint." style="width:256px;height:256px;" /> </p>
+<figure-caption>Figure 2. Cross section of ball-and-socket joint.</figure-caption>
 </figure>
 
 My overall goal was to minimize the number of off-the-shelf parts, limiting myself to printed components. This decision added a touch of innovation and fun to the final product, highlighting the possibilities of 3D printing.
