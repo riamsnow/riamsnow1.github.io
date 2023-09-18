@@ -18,7 +18,7 @@ header:
   * Slide the phone supports onto the long and short threads and secure your device with the positioning nuts.
   * Press the other end of the ball-and-socket into the bike mount. *
   * Secure the mount to your bicycle using the M5-30mm hex screws.
-  (Note: Due to the limitations of FFF printing, a heat gun may be needed to soften materials prior to press-fitting them together)
+*(Note: Due to the limitations of FFF printing, a heat gun may be needed to soften materials prior to press-fitting them together)
 
 # Installation
   * This phone mount can be attached to your bike with the use of two [M5-30mm hex screws.](https://www.mcmaster.com/products/screws/alloy-steel-socket-head-screws-8/length~30-0-mm/length~30-mm/?s=m5+screws)
