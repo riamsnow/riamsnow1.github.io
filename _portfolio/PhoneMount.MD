@@ -9,13 +9,19 @@ header:
   * A well-designed bike mount ensures that the phone is securely and ergonomically positioned, reducing distractions and the need to handle the device manually. 
   * By adopting a top-down modeling approach, I was able to prioritize factors like ease of installation, stability, and adaptability to various phone sizes, guaranteeing a user-centric solution that promotes safer cycling and a more enjoyable riding experience.
 
-# CAD Model - to do
+# CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ef55bd0e2e4874408?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Assembly
+  * Press the long and short threads into the main body in whichever orientation works best for your device. *
+  * Press the movable end of the ball-and-socket joint into the back of the main body. *
+  * Slide the phone supports onto the long and short threads and secure your device with the positioning nuts.
+  * Press the other end of the ball-and-socket into the bike mount. *
+  * Secure the mount to your bicycle using the M5-30mm hex screws.
+  (Note: Due to the limitations of FFF printing, a heat gun may be needed to soften materials prior to press-fitting them together)
 
 # Installation
   * This phone mount can be attached to your bike with the use of two [M5-30mm hex screws.](https://www.mcmaster.com/products/screws/alloy-steel-socket-head-screws-8/length~30-0-mm/length~30-mm/?s=m5+screws)
-  * Once the mount is attached, apply a moderate amount of force to secure the shaft to the socket.
-  * Adjust the fit of your device by rotating the two hex nuts.
 
 # Parts List
 
@@ -50,11 +56,11 @@ Key features of top-down modeling include:
 In the prototyping phase of my project, I initially used PLA (Polylactic Acid) filament due to its affordability. PLA allowed me to quickly iterate and refine the design while keeping costs low. However, as I moved towards the production of the final product, I made the switch to PETG (Polyethylene Terephthalate Glycol) filament. The decision to switch materials was primarily driven by PETG's strength and UV resistance properties. These qualities were essential for ensuring the long-term durability and performance of the final product, especially if it would be exposed to outdoor conditions. PETG's ability to withstand UV radiation without degradation ensured that the product would maintain its integrity and appearance over time, making it the ideal choice for a robust and enduring end result.
 
 ## Component Design
-Originally, I incorporated the long and short threads as part of the main body in my design. However, as I sought to enhance the overall quality and functionality of the product, I opted for a press-fit design approach. This design change allowed me to print the threads vertically, which significantly improved the precision and quality of the threads themselves. This shift in design approach ultimately ensured that the threads provided a higher level of reliability and performance in the final product.
+Originally, I incorporated the long and short threads as part of the main body in my design. However, as I wanted to enhance the overall quality and functionality of the product, I opted for a press-fit design approach. This design change allowed me to print the threads vertically, which significantly improved the precision and quality of the threads themselves. This shift in design approach ultimately ensured that the threads provided a higher level of reliability and performance in the final product.
 
-Taking a more creative approach, I decided to switch from the traditional press-fit ball and socket joint to a print-in-place mechanism. This shift brought an exciting challenge to the project as it had to be designed in such a way to allow the entire joint to be printed as one piece. This not only simplified assembly but also ensured that the parts moved smoothly right after printing, making the user experience more enjoyable and intuitive. 
-[](/assets/img/socket-cross-section.PNG)
+I decided to take a more creative approach for the ball and socket component, shifting to a print-in-place mechanism. This change brought an exciting challenge to the project as it had to be designed in such a way to allow the entire joint to be printed as one piece. This not only simplified assembly but also ensured that the parts moved smoothly right after printing, making the user experience more enjoyable and intuitive. 
+![](/assets/img/socket-cross-section.PNG)
 
 My overall goal was to minimize the number of off-the-shelf parts, limiting myself to printed components. This decision added a touch of innovation and fun to the final product, highlighting the possibilities of 3D printing.
 
-[](/assets/img/full-final-render.png)
+![](/assets/img/full-final-render.png)
