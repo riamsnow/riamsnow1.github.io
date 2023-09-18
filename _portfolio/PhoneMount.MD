@@ -24,10 +24,11 @@ header:
 |      Body (PETG)                    |   to do  |
 |      Long Thread  (PETG)            |   to do        |
 |      Short Thread  (PETG)           |   to do               |
-|      Positioning Nut  (PETG)        |   ![](/assets/img/nut-render.png)   |
-|      Phone Support (PETG)           |   ![](/assets/img/constraint-render.png) |
+|      Positioning Nut  (PETG, Qty: 2)        |   ![](/assets/img/nut-render.png)   |
+|      Phone Support (PETG, Qty: 2)           |   ![](/assets/img/constraint-render.png) |
 |      Ball & Socket Joint (PETG)     |   ![](/assets/img/ball-socket-render.png) |
 |      Bike Mount (PETG)              |   ![](/assets/img/mount-render.png) |
+|      M5 - 20mm Hex Screw (Qty: 2)             |   ![](/assets/img/m5.png) |
 
 # What is top-down modeling?
 Top-down modeling is a systematic approach where the entire product or assembly is conceptualized as a whole before diving into the finer details. This method allows designers to establish the overall architecture, define relationships between components, and establish constraints and parameters that govern the entire assembly's behavior.
