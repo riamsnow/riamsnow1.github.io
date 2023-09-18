@@ -62,7 +62,7 @@ Originally, I incorporated the long and short threads as part of the main body i
 I decided to take a more creative approach for the ball and socket component, shifting to a print-in-place mechanism. This change brought an exciting challenge to the project as it had to be designed in such a way to allow the entire joint to be printed as one piece. This not only simplified assembly but also ensured that the parts moved smoothly right after printing, making the user experience more enjoyable and intuitive. 
 
 <figure>
-<img src="/assets/img/socket-cross-section.PNG" alt="Cross section of joint." style="width:128px;height:128px;" />
+<img src="/assets/img/socket-cross-section.PNG" alt="Cross section of joint." style="width:256px;height:256px;" />
 <figure-caption>Figure 1. Cross section of ball-and-socket joint.</figure-caption>
 </figure>
 
