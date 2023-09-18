@@ -32,7 +32,7 @@ header:
 # What is top-down modeling?
 Top-down modeling is a systematic approach where the entire product or assembly is conceptualized as a whole before diving into the finer details. This method allows designers to establish the overall architecture, define relationships between components, and establish constraints and parameters that govern the entire assembly's behavior.
 
-Key features of top-down modeling in CAD include:
+Key features of top-down modeling include:
 
   * Hierarchical Structure: Designers create a hierarchical structure or assembly tree that represents the various components and sub-assemblies of the product. This structure helps organize the design into manageable units.
 
