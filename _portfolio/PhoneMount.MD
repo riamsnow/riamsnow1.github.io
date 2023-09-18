@@ -59,7 +59,7 @@ In the prototyping phase of my project, I initially used PLA (Polylactic Acid) f
 Originally, I incorporated the long and short threads as part of the main body in my design. However, as I wanted to enhance the overall quality and functionality of the product, I opted for a press-fit design approach. This design change allowed me to print the threads vertically, which significantly improved the precision and quality of the threads themselves. This shift in design approach ultimately ensured that the threads provided a higher level of reliability and performance in the final product.
 
 I decided to take a more creative approach for the ball and socket component, shifting to a print-in-place mechanism. This change brought an exciting challenge to the project as it had to be designed in such a way to allow the entire joint to be printed as one piece. This not only simplified assembly but also ensured that the parts moved smoothly right after printing, making the user experience more enjoyable and intuitive. 
-![](/assets/img/socket-cross-section.PNG)
+![](/assets/img/socket-cross-section.PNG "Cross section of the ball and socket joint.")
 
 My overall goal was to minimize the number of off-the-shelf parts, limiting myself to printed components. This decision added a touch of innovation and fun to the final product, highlighting the possibilities of 3D printing.
 
