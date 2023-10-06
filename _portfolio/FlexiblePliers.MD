@@ -25,7 +25,7 @@ Below is a table of common filaments and how well they bond together:
 # Design Considerations
 The flexible core of this design went through several iterations. Originally a 4x4 grid of squares was used, but the multiple walls reduced flexibility. The final iteration consists of a 2x2 grid of larger squares to minimize the number of walls. 
 Additionally, a dovetail joint was used to attach the PLA components to the TPU core. See the cross-section below. 
-<img src = "/assets/fp-cross-section.png" alt = "Cross section of pliers" height = 256px width = 256px>
+<img src = "assets/img/fp-cross-section.png" alt = "Cross section of pliers" height = 256px width = 256px>
 
 
 # Relevant specifications of the pliers (jaw length, jaw capacity) o Print settings
