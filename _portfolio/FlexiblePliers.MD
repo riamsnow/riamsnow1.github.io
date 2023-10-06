@@ -27,7 +27,7 @@ The flexible core of this design went through several iterations. Originally a 4
 Additionally, a dovetail joint was used to attach the PLA components to the TPU core. See the cross-section below.
 
 <figure>
-<p style="text-align:center;"><img src = "/assets/img/fp-cross-section.png" alt = "Cross section of pliers" style = "height:500px; width:500px"/> </p>
+<p style="text-align:center;"><img src = "/assets/img/fp-cross-section.png" alt = "Cross section of pliers" style = "height:480px; width:640px"/> </p>
 <figure-caption>Figure 1. Cross-sectional analysis.</figure-caption>
 </figure>
 
