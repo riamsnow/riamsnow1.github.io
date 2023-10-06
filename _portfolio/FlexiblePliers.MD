@@ -4,8 +4,12 @@ excerpt: "Print in place flexible pliers, made with PLA & TPU"
 header:
   teaser: assets/img/fp-full-image.png
 ---
-# Motivation
-  * something cool
+# Description of the project with a blurb about print-in-place parts. Perform external research to determine other applications print-in-place has been used. What combination of materials work well for print-in-place?
+# EmbeddedCADmodel (DONE)
+# About the design (e.g., how was the spring component created and how is it retained in the model, materials used)
+# Relevant specifications of the pliers (jaw length, jaw capacity) o Print settings
+# Picture gallery of iterations and pliers.
+# GIF of pliers working
 
 
 # CAD Model
