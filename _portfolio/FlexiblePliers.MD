@@ -18,16 +18,17 @@ Below is a table of common filaments and how well they bond together:
 |      ABS + PETG       |   ABS will stick to PETG with ease. However, the bond will be somewhat weak. This isn't great for mechanical projects but PETG could be printed as a support material for ABS.     |
 |      TPU + PETG    |  TPU and PETG will form a moderately strong bond. They will only seperate under strong mechanical stress.    |
 
+# CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed35aa60b7838f7ce?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# EmbeddedCADmodel (DONE)
+
 # About the design (e.g., how was the spring component created and how is it retained in the model, materials used)
 # Relevant specifications of the pliers (jaw length, jaw capacity) o Print settings
 # Picture gallery of iterations and pliers.
 # GIF of pliers working
 
 
-# CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed35aa60b7838f7ce?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 
 # 3D Printed Parts
