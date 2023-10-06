@@ -18,11 +18,16 @@ Below is a table of common filaments and how well they bond together:
 |      ABS + PETG       |   ABS will stick to PETG with ease. However, the bond will be somewhat weak. This isn't great for mechanical projects but PETG could be printed as a support material for ABS.     |
 |      TPU + PETG    |  TPU and PETG will form a moderately strong bond. They will only seperate under strong mechanical stress.    |
 
+
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed35aa60b7838f7ce?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Design Considerations
+The flexible core of this design went through several iterations. Originally a 4x4 grid of squares was used, but the multiple walls reduced flexibility. The final iteration consists of a 2x2 grid of larger squares to minimize the number of walls. 
+Additionally, a dovetail joint was used to attach the PLA components to the TPU core. See the cross-section below. 
+<img src = "/assets/fp-cross-section.png" alt = "Cross section of pliers" height = 256px width = 256px>
 
-# About the design (e.g., how was the spring component created and how is it retained in the model, materials used)
+
 # Relevant specifications of the pliers (jaw length, jaw capacity) o Print settings
 # Picture gallery of iterations and pliers.
 # GIF of pliers working
