@@ -18,6 +18,10 @@ feature_row:
     alt: "Phone Mount"
     title: "Phone Mount"
     excerpt: "Durable, UV-resistant phone mount designed for 23-25mm handlebars."
+  - image_path: assets/img/fp-full-image.png
+    alt: "Flexible Pliers"
+    title: "Multi-material Flexible Pliers"
+    excerpt: "Print in place flexible pliers, made with PLA & TPU"
 ---
 
 {% include feature_row %}

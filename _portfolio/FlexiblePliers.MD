@@ -1,5 +1,5 @@
 ---
-title: "Multi-Material Flexible Pliers"
+title: "Multi-material Flexible Pliers"
 excerpt: "Print in place flexible pliers, made with PLA & TPU"
 header:
   teaser: assets/img/fp-full-image.png
