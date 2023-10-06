@@ -31,16 +31,6 @@ Additionally, a dovetail joint was used to attach the PLA components to the TPU 
 <figure-caption>Figure 1. Cross-sectional analysis.</figure-caption>
 </figure>
 
-
-
-# Relevant specifications of the pliers (jaw length, jaw capacity) o Print settings
-# Picture gallery of iterations and pliers.
-# GIF of pliers working
-
-
-
-
-
 # 3D Printed Parts
 
 |                 Component                 | Image |
@@ -50,6 +40,26 @@ Additionally, a dovetail joint was used to attach the PLA components to the TPU 
 |      Left Jaw (PLA)          |   ![](/assets/img/fp-jaws-1.png)     |
 |      Right Jaw  (PLA)        |   ![](/assets/img/fp-jaws-2.png)     |
 |      Flexible Core (TPU)     |   ![](/assets/img/fp-core-1.png)     |
+
+# Print Settings
+This design was printed on a MakerGear M3 Dual Extrusion printer. 
+Note the following settings:
+  * Wipe tower enabled
+  * Tool 1 (PLA) 215 C
+  * Tool 2 (TPU) 235 C
+  * Bed temperature 60 C
+The use of a wipe tower was necessary due to the nature of dual extrusion printing. The idle nozzle will likely ooze and needs to be purged prior to adding layers on the printed part. 
+
+# Relevant specifications of the pliers (jaw length, jaw capacity) 
+
+# Picture gallery of iterations and pliers.
+
+# GIF of pliers working
+
+
+
+
+
 
 
 
