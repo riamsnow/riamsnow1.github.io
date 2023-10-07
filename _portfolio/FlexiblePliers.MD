@@ -35,8 +35,8 @@ Additionally, a dovetail joint was used to attach the PLA components to the TPU 
 
 |                 Component                 | Image |
 |:-----------------------------------------:|:-----:|
-|      Left Handle (PLA)       |   ![](/assets/img/fp-handle-1.png)   |
-|      Right Handle (PLA)      |   ![](/assets/img/fp-handle-2.png)   |
+|      Left Handle (PLA)       |   ![](/assets/img/fp-handle-2.png)   |
+|      Right Handle (PLA)      |   ![](/assets/img/fp-handle-1.png)   |
 |      Left Jaw (PLA)          |   ![](/assets/img/fp-jaws-1.png)     |
 |      Right Jaw  (PLA)        |   ![](/assets/img/fp-jaws-2.png)     |
 |      Flexible Core (TPU)     |   ![](/assets/img/fp-core-1.png)     |
@@ -51,12 +51,15 @@ Note the following settings:
   
 The use of a wipe tower was necessary due to the nature of dual extrusion printing. The idle nozzle will likely ooze and needs to be purged prior to adding layers on the printed part. 
 
-# Relevant specifications of the pliers (jaw length, jaw capacity) 
-
+# Physical Specifications
+  * Jaw Length: 15 mm
+  * Resting Jaw Capacity: 7.5 mm
+  * Maximum Jaw Capacity: 12 mm
+  * Minimum Jaw Capacity: 3.8 mm
 # Picture gallery of iterations and pliers.
 
 # GIF of pliers working
-
+<img src = "/assets/img/fp.gif", style = "width:640px; height:480px"/>
 
 
 
