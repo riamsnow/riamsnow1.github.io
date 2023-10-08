@@ -60,7 +60,7 @@ The use of a wipe tower was necessary due to the nature of dual extrusion printi
 # Picture gallery of iterations and pliers.
 
 # GIF of pliers working
-<img src="/assets/img/fp.gif", style="width:640px; height:480px"/>
+<img src="/assets/img/fp.gif" style="width:640px; height:480px"/>
 
 
 
