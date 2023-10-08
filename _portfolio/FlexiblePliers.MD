@@ -57,7 +57,10 @@ The use of a wipe tower was necessary due to the nature of dual extrusion printi
   * Maximum Jaw Capacity: 12 mm
   * Minimum Jaw Capacity: 3.8 mm
   
-# Picture gallery of iterations and pliers.
+<figure>
+<p style="text-align:center;"><img src = "/assets/img/fp-iteration.png" alt = "all prototypes" style = "height:480px; width:640px; transform:rotate(180deg)"/> </p>
+<figure-caption>Figure 2. Iterations in order of production (left to right).</figure-caption>
+</figure>
 
 
 # Demo
