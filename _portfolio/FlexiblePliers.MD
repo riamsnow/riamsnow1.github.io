@@ -23,11 +23,11 @@ Below is a table of common filaments and how well they bond together:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed35aa60b7838f7ce?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Design Considerations
-The flexible core of this design went through several iterations. Originally a 4x4 grid of squares was used, but the multiple walls reduced flexibility. The final iteration consists of a 2x2 grid of larger squares to minimize the number of walls. 
+The flexible core of this design went through several iterations. Originally a 4x4 lattice was used, but the multiple walls reduced flexibility. The final iteration consists of a 2x2 lattice to minimize the number of walls. 
 Additionally, a dovetail joint was used to attach the PLA components to the TPU core. See the cross-section below.
 
 <figure>
-<p style="text-align:center;"><img src = "/assets/img/fp-cross-section.png" alt = "Cross section of pliers" style = "height:480px; width:640px"/> </p>
+<p style="text-align:center;"><img src = "/assets/img/fp-cross-section.png" alt = "Cross section of pliers" style = "height:480px; width:700px"/> </p>
 <figure-caption>Figure 1. Cross-sectional analysis.</figure-caption>
 </figure>
 
