@@ -22,6 +22,10 @@ feature_row:
     alt: "Flexible Pliers"
     title: "Multi-material Flexible Pliers"
     excerpt: "Print in place flexible pliers, made with PLA & TPU"
+  - image_path: assets/img/fp-full-image.png
+    alt: "Microfluidic Device"
+    title: "Microfluidic Device"
+    excerpt: "PDMS cast microfluidic device, made from SLA printed mold."
 ---
 
 {% include feature_row %}
