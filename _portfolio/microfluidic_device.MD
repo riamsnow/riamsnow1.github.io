@@ -35,14 +35,17 @@ Active mixing strategies enhance the efficiency of mixing by employing external 
 ## Channel Design
 This device relies on passive mixing schemes - specifically zigzag channels, embedded barriers, and 3-D geometry.
 
-# Why vat photopolymerization was chosen to produce mold.
-## What is the main drawback of this technique (hint: parylene)?
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ea0939bd38a227bfe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Manufacturing Considerations
+Vat Photopolymerization (VPP) was chosen to manufacture molds due to its precision, but direct use of resin prints in finalized microfluidic devices was hindered by cytotoxicity and material instability. To address this, a two-step process involving VPP for mold creation and subsequent polydimethylsiloxane (PDMS) casting was employed. This two-step approach mitigates the challenges associated with direct resin use, allowing for the creation of biocompatible microfluidic platforms suitable for cell culture studies.
+
 # Instructions for how to go from the 3D printed mold to the final device.
 ## Print and cure mold.
 ## Parylene device.
 ## Cast PDMS.
 ## Plasma bond glass slide.
-# Fusion 360 CAD Model.
+
 # Constrained sketches and appropriately labeled. 
 ## Flag the model that should be graded
 # Multimedia
