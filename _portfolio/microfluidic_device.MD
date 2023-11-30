@@ -40,11 +40,17 @@ This device relies on passive mixing schemes - specifically zigzag channels, emb
 # Manufacturing Considerations
 Vat Photopolymerization (VPP) was chosen to manufacture molds due to its precision, but direct use of resin prints in finalized microfluidic devices was hindered by cytotoxicity and material instability. To address this, a two-step process involving VPP for mold creation and subsequent polydimethylsiloxane (PDMS) casting was employed. This two-step approach mitigates the challenges associated with direct resin use, allowing for the creation of biocompatible microfluidic platforms suitable for cell culture studies.
 
-# Instructions for how to go from the 3D printed mold to the final device.
-## Print and cure mold.
-## Parylene device.
-## Cast PDMS.
-## Plasma bond glass slide.
+# Microdevice Fabrication
+A series of steps were followed to get from the CAD model to the finalized microfluidic device. 
+  * Convert STL file to g-code using Preform (Formlabs specific slicing software)
+  * Print device on Formlabs Form 3 SLA printer
+  * Wash completed print in isopropyl alcohol (IPA) until visibly clean
+  * Cure device (with supports) using Formlabs UV cure following resin specific cure instructions
+  * Coat device using Labcoter PDS 2010 parylene deposition machine (Specialty Coating Systems) according to manufacturer's instructions
+  * Fill device with PDMS elastomer and curing agent mix at a weight ratio of 10:1.
+  * Degas device in a vacuum chamber and cure with heat (80°C) for 3 hours.
+  * Demold device and bond to glass coverslip with PlasmaFlo PDC-FMG plasma cleaner (Harrick Plasma)
+  * Sterilize finalized device with an autoclave
 
 # Constrained sketches and appropriately labeled. 
 ## Flag the model that should be graded
