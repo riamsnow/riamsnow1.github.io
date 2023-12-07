@@ -58,7 +58,6 @@ A series of steps were followed to get from the CAD model to the finalized micro
   * Demold device and bond to glass coverslip with PlasmaFlo PDC-FMG plasma cleaner (Harrick Plasma)
   * Sterilize finalized device with an autoclave
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JZetKleHQ_o?si=L6jhRLS4jSX8T04R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {% include gallery %}
-
-## Embedded YouTube video of the device working.
