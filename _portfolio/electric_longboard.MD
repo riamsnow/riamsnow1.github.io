@@ -5,9 +5,10 @@ header:
   teaser: assets/img/truck2.jpeg
 ---
 This is a fairly long writeup, so feel free to jump to any section that interests you!
+
 [Motivation](#motivation)\
 [Design](#design)\
-[CAD](#cad)\
+[CAD](#cad)
 
 <a id="motivation"></a>
 
