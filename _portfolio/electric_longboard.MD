@@ -5,10 +5,12 @@ header:
   teaser: assets/img/truck2.jpeg
 ---
 This is a fairly long writeup, so feel free to jump to any section that interests you!
-[Motivation](#motivation)
-[Design](#design)
+[Motivation](#motivation)\
+[Design](#design)\
+[CAD](#cad)\
 
 <a id="motivation"></a>
+
 # Motivation
 Powder bed fusion (PBF) and generative design represent a powerful combination that has revolutionized manufacturing processes, particularly in the aerospace and automotive industries. This unique pairing combines cutting-edge technologies to enhance product design, optimize materials usage, and improve overall efficiency in the production of complex components. This combination offers several advantages, such as:
   * <strong>Lightweight Structures</strong>: Generative design enables the creation of lightweight structures that maintain structural integrity. In aerospace, this can lead to significant fuel savings, while in automotive applications, it contributes to improved fuel efficiency and overall performance.
@@ -18,9 +20,19 @@ Powder bed fusion (PBF) and generative design represent a powerful combination t
   * <strong>Reduced Waste</strong>: Traditional subtractive manufacturing processes can result in significant material wastage. PBF, in conjunction with generative design, minimizes waste by only using the necessary material to achieve optimal performance.
 
 <a id="design"></a>
+
 # Design
 Fusion 360's Generative Design capabilities were used to iteratively create a longboard truck that could withstand the required forces. The generative design solver was run for both Nylon-12 and ALSi10Mg. 
 
 To take advantage of Fusion 360's solver, preserve and obstacle geometries were designated. As explained by their names, preserve geometries should be kept by the solver, while obstacle geometries should be avoided. 
-<img src="/assets/img/gen-des-geometries.png>"/>
+<img src="/assets/img/gen-des-geometries.png"/>
 <figure-caption>Figure 1. Generative Design Setup.</figure-caption>
+
+<a id="cad"></a>
+
+# CAD Models
+## Nylon-12
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e2ed67596e0e87df2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## ALSi10Mg
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e251cf2898b16fefa?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
