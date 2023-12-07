@@ -2,7 +2,13 @@
 title: "Microfluidic Device - WIP"
 excerpt: "PDMS cast microfluidic device, made from SLA printed mold."
 header:
-  teaser: assets/img/full-final-render.png
+  teaser: assets/img/ufluidic5.jpeg
+gallery:
+- image_path: assets/img/ufluidic1.jpeg
+- image_path: assets/img/ufluidic3.jpeg
+- image_path: assets/img/ufluidic5.jpeg
+- image_path: assets/img/ufluidic-cast.jpeg
+- image_path: assets/img/ufluidic-mold.jpeg
 ---
 # Background
 Microfluidic devices are small-scale systems capable of handling low volumes of fluids on the order of microliters to picoliters. They are often used in a variety of fields including chemistry, biology, and medicine. Applications of microfluidic devices include DNA analysis, cell sorting and manipulation, point-of-care diagnostics, and drug delivery systems. Their small size allows for faster analysis, lower costs, and the ability to perform multiple tests simultaneously.
@@ -52,9 +58,7 @@ A series of steps were followed to get from the CAD model to the finalized micro
   * Demold device and bond to glass coverslip with PlasmaFlo PDC-FMG plasma cleaner (Harrick Plasma)
   * Sterilize finalized device with an autoclave
 
-# Constrained sketches and appropriately labeled. 
-## Flag the model that should be graded
-# Multimedia
-## Picture of the mold
-## Picture of casted device
+
+{% include gallery %}
+
 ## Embedded YouTube video of the device working.
