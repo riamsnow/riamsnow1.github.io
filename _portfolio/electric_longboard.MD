@@ -13,7 +13,7 @@ gallery:
 This is a fairly long writeup, so feel free to jump to any section that interests you!
 
 [SLS Truck](#SLSTruck)\
-[LF3DP](#lf3dp)\
+[LF3DP](#lf3dp)
 
 
 <a id="SLSTruck"></a>
@@ -60,10 +60,10 @@ As an added challenge, this design was also created through generative design. T
 <figure-caption>Figure 2. Generative Design Setup.</figure-caption>
 
 The deck was designed for a 200lbs rider, with a safety factor of 2. This had to be achieved while also striving towards the objective of minimizing mass. Given these constraints, Fusion 360 designed the deck seen below. 
-<img src="assets/img/gen-des-deck-render.png"/>
+<img src="/assets/img/gen-des-deck-render.png"/>
 
 When running the load simulation, it appears that Fusion 360 was able to generate a design given the contraints. The goal was to minimize mass, while also preventing a deflection of greater than 12 mm. By iteratively decreasing the deck's thickness, both constraints were satisfied.
-<img src="assets/img/deck-simulation.png"/>
+<img src="/assets/img/deck-simulation.png"/>
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed593dac91364ac5c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
