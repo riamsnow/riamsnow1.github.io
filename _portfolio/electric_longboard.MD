@@ -2,6 +2,7 @@
 title: "Electric Longboard"
 excerpt: "Generative design trucks + Large Format 3D printed deck = electric longboard"
 header:
+  image: assets/img/longboard-banner.jpeg
   teaser: assets/img/truck2.jpeg
 gallery:
 - image_path: assets/img/aluminum-assembly-render1.png

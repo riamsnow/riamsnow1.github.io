@@ -1,5 +1,5 @@
 ---
-title: "Microfluidic Device - WIP"
+title: "Microfluidic Device"
 excerpt: "PDMS cast microfluidic device, made from SLA printed mold."
 header:
   teaser: assets/img/ufluidic5.jpeg
