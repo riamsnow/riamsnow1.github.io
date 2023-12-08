@@ -3,6 +3,7 @@ title: "Microfluidic Device"
 excerpt: "PDMS cast microfluidic device, made from SLA printed mold."
 header:
   teaser: assets/img/ufluidic5.jpeg
+  image: assets/img/ufluidics-banner.jpeg
 gallery:
 - image_path: assets/img/ufluidic1.jpeg
 - image_path: assets/img/ufluidic3.jpeg

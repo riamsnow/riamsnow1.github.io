@@ -1,6 +1,6 @@
 ---
 title: "Electric Longboard"
-excerpt: "Generative design trucks + Large Format 3D printed deck = electric longboard"
+excerpt: "Generative design SLS trucks + Large Format 3D printed deck = electric longboard"
 header:
   image: assets/img/mini-board.jpeg
   teaser: assets/img/truck2.jpeg
