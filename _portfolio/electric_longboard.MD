@@ -8,7 +8,7 @@ gallery:
 - image_path: assets/img/aluminum-assembly-render1.png
 - image_path: assets/img/aluminum-assembly-render1.png
 - image_path: assets/img/assembly-top-view.png
-- image_path: assets/img/assembly_render_1.png
+- image_path: assets/img/truck2.jpeg
 - image_path: assets/img/full-assembly-2.png
 - image_path: assets/img/longboard-scaled.jpeg
 ---
@@ -33,7 +33,7 @@ Powder bed fusion (PBF) and generative design represent a powerful combination t
 # Design
 Fusion 360's Generative Design capabilities were used to iteratively create a longboard truck that could withstand the required forces. The generative design solver was run for both Nylon-12 and ALSi10Mg. 
 
-To take advantage of Fusion 360's solver, preserve and obstacle geometries were designated. As explained by their names, preserve geometries should be kept by the solver, while obstacle geometries should be avoided. 
+To take advantage of Fusion 360's solver, preserve (green) and obstacle (red) geometries were designated. As explained by their names, preserve geometries should be kept by the solver, while obstacle geometries should be avoided. 
 <img src="/assets/img/gen-des-geometries.png"/>
 <figure-caption>Figure 1. Generative Design Setup.</figure-caption>
 
@@ -64,7 +64,7 @@ As an added challenge, this design was also created through generative design. T
 The deck was designed for a 200lbs rider, with a safety factor of 2. This had to be achieved while also striving towards the objective of minimizing mass. Given these constraints, Fusion 360 designed the deck seen below. 
 <img src="/assets/img/gen-des-deck-render.png"/>
 
-When running the load simulation, it appears that Fusion 360 was able to generate a design given the contraints. The goal was to minimize mass, while also preventing a deflection of greater than 12 mm. By iteratively decreasing the deck's thickness, both constraints were satisfied.
+When running the load simulation, it appears that Fusion 360 was able to generate a design given the contraints. The goal was to minimize mass, while also preventing a deflection of greater than 12 mm. Rather than enter the expected forces manually, Fusion 360 automatically transferred the forces from the generative design to the simulation. By iteratively decreasing the deck's thickness, both constraints were satisfied.
 <img src="/assets/img/deck-simulation.png"/>
 
 # CAD Model
