@@ -64,7 +64,7 @@ As an added challenge, this design was also created through generative design. T
 The deck was designed for a 200lbs rider, with a safety factor of 2. This had to be achieved while also striving towards the objective of minimizing mass. Given these constraints, Fusion 360 designed the deck seen below. 
 <img src="/assets/img/gen-des-deck-render.png"/>
 
-When running the load simulation, it becomes clear that Fusion 360 was able to generate a design given the contraints. The goal was to minimize mass, while also preventing a deflection of greater than 12 mm. Rather than enter the expected forces manually, Fusion 360 automatically transferred the forces from the generative design to the simulation. By iteratively decreasing the deck's thickness, both constraints were satisfied.
+When running the load simulation, it becomes that Fusion 360 was able to generate a design given the contraints. The goal was to minimize mass, while also preventing a deflection of greater than 12 mm. Rather than enter the expected forces manually, Fusion 360 automatically transferred the forces from the generative design to the simulation. By iteratively decreasing the deck's thickness, both constraints were satisfied.
 <img src="/assets/img/deck-simulation.png"/>
 
 # CAD Model
