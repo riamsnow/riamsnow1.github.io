@@ -205,7 +205,6 @@ figure {
 
   img {
     width: 100%;
-    padding-bottom: 120 - height($image-size);
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
