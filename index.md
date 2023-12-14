@@ -27,9 +27,9 @@ feature_row:
     title: "Microfluidic Device"
     excerpt: "PDMS cast microfluidic device, made from SLA printed mold."
   - image_path: assets/img/truck2.jpeg
-  alt: "Electric longboard"
-  title: "Electric Longboard"
-  excerpt: "Generative design trucks + Large Format 3D printed deck = electric longboard"
+    alt: "Electric longboard"
+    title: "Electric Longboard"
+    excerpt: "Generative design trucks + Large Format 3D printed deck = electric longboard"
 ---
 
 {% include feature_row %}
