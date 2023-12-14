@@ -30,6 +30,10 @@ feature_row:
     alt: "Electric longboard"
     title: "Electric Longboard"
     excerpt: "Generative design trucks + Large Format 3D printed deck = electric longboard"
+  - image_path: assets/img/dalock-teaser.jpeg
+    alt: "Biometric smart lock"
+    title: "DaLock"
+    excerpt: "A biometric smart lock to simplify dorm room access."
 ---
 
 {% include feature_row %}
