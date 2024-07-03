@@ -8,9 +8,8 @@ He is seeking an entry-level role in the cybersecurity field with a focus on rev
 
 ## Education
 
-* Vanderbilt University - Class of 2024
-  * BS Computer Science
-  * Concentration in Digital Fabrication
+* Vanderbilt University - Class of 2026
+  * BA Molecular and Cellular Biology, Neuroscience
 
 ## Research Experience
 American Express - Software Engineering Intern (Summer 2023)
