@@ -12,13 +12,13 @@ He is seeking an entry-level role in the cybersecurity field with a focus on rev
   * BS Computer Science
   * Concentration in Digital Fabrication
 
-## Work Experience
+## Research Experience
 American Express - Software Engineering Intern (Summer 2023)
 * Developed a RESTful API for audit log statistics using Java and Springboot.
 * Designed and implemented secure authorization and authentication mechanisms for API endpoints.
 * Collaborated with cross-functional teams to gather requirements and ensure seamless integration with existing systems.
 
-## Technical Skills
+## Design Experience
 
 Julian has experience with the following additive manufacturing technologies:
 
